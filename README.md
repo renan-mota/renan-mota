@@ -1,3 +1,5 @@
-```js
-JavaScript - TypeScript - NodeJS
+```json
+"main": {
+  "languages": "JavaScript", "TypeScript", "NodeJS"
+}
 ```
